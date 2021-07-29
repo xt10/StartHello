@@ -1,0 +1,7 @@
+{
+  "name": "inicALwes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
